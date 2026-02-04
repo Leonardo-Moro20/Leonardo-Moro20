@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Leonardo Moro
 
-<!--
-**Leonardo-Moro20/Leonardo-Moro20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor iniciante apaixonado por tecnologia e programação.  
+💻 Estudando e criando projetos com **HTML, CSS e JavaScript**.  
+📚 Sempre em busca de aprender coisas novas e evoluir como programador.
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
+- 🎂 Tenho 14 anos  
+- 🧠 Estudo programação desde cedo, com cursos presenciais e imersões online  
+- 🎓 Já participei de cursos pela **Alura** e outras plataformas  
+- 🔥 Gosto de aprender na prática, criando meus próprios projetos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou aprendendo
+- HTML5  
+- CSS3  
+- JavaScript  
+
+## 📂 Projetos
+Aqui você vai encontrar meus primeiros projetos, feitos para praticar e evoluir minhas habilidades em desenvolvimento web.  
+Cada projeto representa um passo a mais no meu aprendizado 🚀
+
+## 🎯 Objetivo
+Continuar estudando programação, aprimorar minhas habilidades e, no futuro, atuar profissionalmente na área de tecnologia.
+
+---
+
+⭐ Se quiser acompanhar minha evolução, fique à vontade para explorar meus repositórios!
